@@ -1,0 +1,358 @@
+Added Component: Designator=J1(CONN_HDMI_SD-47151)
+Added Component: Designator=U1(PAP0064D_N)
+Added Component: Designator=U2(PAP0064D_N)
+Added Component: Designator=U3(PAP0064D_N)
+Added Component: Designator=U4(PAP0064D_N)
+Added Component: Designator=U5(DBT0038A_N)
+Added Pin To Net: NetName=CEC Pin=U5-16
+Added Net: Name=CEC
+Added Pin To Net: NetName=CLKINN1 Pin=J1-12
+Added Pin To Net: NetName=CLKINN1 Pin=U1-6
+Added Pin To Net: NetName=CLKINN1 Pin=U5-15
+Added Pin To Net: NetName=CLKINN1 Pin=U5-24
+Added Net: Name=CLKINN1
+Added Pin To Net: NetName=CLKINN2 Pin=U1-9
+Added Net: Name=CLKINN2
+Added Pin To Net: NetName=CLKINN3 Pin=U1-12
+Added Net: Name=CLKINN3
+Added Pin To Net: NetName=CLKINN4 Pin=U1-15
+Added Net: Name=CLKINN4
+Added Pin To Net: NetName=CLKINN5 Pin=U1-19
+Added Net: Name=CLKINN5
+Added Pin To Net: NetName=CLKINN6 Pin=U1-22
+Added Net: Name=CLKINN6
+Added Pin To Net: NetName=CLKINN7 Pin=U1-25
+Added Net: Name=CLKINN7
+Added Pin To Net: NetName=CLKINN8 Pin=U1-28
+Added Net: Name=CLKINN8
+Added Pin To Net: NetName=CLKINP1 Pin=J1-10
+Added Pin To Net: NetName=CLKINP1 Pin=U1-5
+Added Pin To Net: NetName=CLKINP1 Pin=U5-13
+Added Pin To Net: NetName=CLKINP1 Pin=U5-26
+Added Net: Name=CLKINP1
+Added Pin To Net: NetName=CLKINP2 Pin=U1-8
+Added Net: Name=CLKINP2
+Added Pin To Net: NetName=CLKINP3 Pin=U1-11
+Added Net: Name=CLKINP3
+Added Pin To Net: NetName=CLKINP4 Pin=U1-14
+Added Net: Name=CLKINP4
+Added Pin To Net: NetName=CLKINP5 Pin=U1-18
+Added Net: Name=CLKINP5
+Added Pin To Net: NetName=CLKINP6 Pin=U1-21
+Added Net: Name=CLKINP6
+Added Pin To Net: NetName=CLKINP7 Pin=U1-24
+Added Net: Name=CLKINP7
+Added Pin To Net: NetName=CLKINP8 Pin=U1-27
+Added Net: Name=CLKINP8
+Added Pin To Net: NetName=CLKOUTN1 Pin=U1-59
+Added Net: Name=CLKOUTN1
+Added Pin To Net: NetName=CLKOUTN2 Pin=U1-56
+Added Net: Name=CLKOUTN2
+Added Pin To Net: NetName=CLKOUTN3 Pin=U1-53
+Added Net: Name=CLKOUTN3
+Added Pin To Net: NetName=CLKOUTN4 Pin=U1-50
+Added Net: Name=CLKOUTN4
+Added Pin To Net: NetName=CLKOUTN5 Pin=U1-42
+Added Net: Name=CLKOUTN5
+Added Pin To Net: NetName=CLKOUTN6 Pin=U1-39
+Added Net: Name=CLKOUTN6
+Added Pin To Net: NetName=CLKOUTN7 Pin=U1-36
+Added Net: Name=CLKOUTN7
+Added Pin To Net: NetName=CLKOUTN8 Pin=U1-33
+Added Net: Name=CLKOUTN8
+Added Pin To Net: NetName=CLKOUTP1 Pin=U1-60
+Added Net: Name=CLKOUTP1
+Added Pin To Net: NetName=CLKOUTP2 Pin=U1-57
+Added Net: Name=CLKOUTP2
+Added Pin To Net: NetName=CLKOUTP3 Pin=U1-54
+Added Net: Name=CLKOUTP3
+Added Pin To Net: NetName=CLKOUTP4 Pin=U1-51
+Added Net: Name=CLKOUTP4
+Added Pin To Net: NetName=CLKOUTP5 Pin=U1-43
+Added Net: Name=CLKOUTP5
+Added Pin To Net: NetName=CLKOUTP6 Pin=U1-40
+Added Net: Name=CLKOUTP6
+Added Pin To Net: NetName=CLKOUTP7 Pin=U1-37
+Added Net: Name=CLKOUTP7
+Added Pin To Net: NetName=CLKOUTP8 Pin=U1-34
+Added Net: Name=CLKOUTP8
+Added Pin To Net: NetName=CON5V Pin=J1-18
+Added Net: Name=CON5V
+Added Pin To Net: NetName=D0INN1 Pin=J1-9
+Added Pin To Net: NetName=D0INN1 Pin=U2-6
+Added Pin To Net: NetName=D0INN1 Pin=U5-12
+Added Pin To Net: NetName=D0INN1 Pin=U5-27
+Added Net: Name=D0INN1
+Added Pin To Net: NetName=D0INN2 Pin=U2-9
+Added Net: Name=D0INN2
+Added Pin To Net: NetName=D0INN3 Pin=U2-12
+Added Net: Name=D0INN3
+Added Pin To Net: NetName=D0INN4 Pin=U2-15
+Added Net: Name=D0INN4
+Added Pin To Net: NetName=D0INN5 Pin=U2-19
+Added Net: Name=D0INN5
+Added Pin To Net: NetName=D0INN6 Pin=U2-22
+Added Net: Name=D0INN6
+Added Pin To Net: NetName=D0INN7 Pin=U2-25
+Added Net: Name=D0INN7
+Added Pin To Net: NetName=D0INN8 Pin=U2-28
+Added Net: Name=D0INN8
+Added Pin To Net: NetName=D0INP1 Pin=J1-7
+Added Pin To Net: NetName=D0INP1 Pin=U2-5
+Added Pin To Net: NetName=D0INP1 Pin=U5-10
+Added Pin To Net: NetName=D0INP1 Pin=U5-29
+Added Net: Name=D0INP1
+Added Pin To Net: NetName=D0INP2 Pin=U2-8
+Added Net: Name=D0INP2
+Added Pin To Net: NetName=D0INP3 Pin=U2-11
+Added Net: Name=D0INP3
+Added Pin To Net: NetName=D0INP4 Pin=U2-14
+Added Net: Name=D0INP4
+Added Pin To Net: NetName=D0INP5 Pin=U2-18
+Added Net: Name=D0INP5
+Added Pin To Net: NetName=D0INP6 Pin=U2-21
+Added Net: Name=D0INP6
+Added Pin To Net: NetName=D0INP7 Pin=U2-24
+Added Net: Name=D0INP7
+Added Pin To Net: NetName=D0INP8 Pin=U2-27
+Added Net: Name=D0INP8
+Added Pin To Net: NetName=D0OUTN1 Pin=U2-59
+Added Net: Name=D0OUTN1
+Added Pin To Net: NetName=D0OUTN2 Pin=U2-56
+Added Net: Name=D0OUTN2
+Added Pin To Net: NetName=D0OUTN3 Pin=U2-53
+Added Net: Name=D0OUTN3
+Added Pin To Net: NetName=D0OUTN4 Pin=U2-50
+Added Net: Name=D0OUTN4
+Added Pin To Net: NetName=D0OUTN5 Pin=U2-42
+Added Net: Name=D0OUTN5
+Added Pin To Net: NetName=D0OUTN6 Pin=U2-39
+Added Net: Name=D0OUTN6
+Added Pin To Net: NetName=D0OUTN7 Pin=U2-36
+Added Net: Name=D0OUTN7
+Added Pin To Net: NetName=D0OUTN8 Pin=U2-33
+Added Net: Name=D0OUTN8
+Added Pin To Net: NetName=D0OUTP1 Pin=U2-60
+Added Net: Name=D0OUTP1
+Added Pin To Net: NetName=D0OUTP2 Pin=U2-57
+Added Net: Name=D0OUTP2
+Added Pin To Net: NetName=D0OUTP3 Pin=U2-54
+Added Net: Name=D0OUTP3
+Added Pin To Net: NetName=D0OUTP4 Pin=U2-51
+Added Net: Name=D0OUTP4
+Added Pin To Net: NetName=D0OUTP5 Pin=U2-43
+Added Net: Name=D0OUTP5
+Added Pin To Net: NetName=D0OUTP6 Pin=U2-40
+Added Net: Name=D0OUTP6
+Added Pin To Net: NetName=D0OUTP7 Pin=U2-37
+Added Net: Name=D0OUTP7
+Added Pin To Net: NetName=D0OUTP8 Pin=U2-34
+Added Net: Name=D0OUTP8
+Added Pin To Net: NetName=D1INN1 Pin=J1-6
+Added Pin To Net: NetName=D1INN1 Pin=U3-6
+Added Pin To Net: NetName=D1INN1 Pin=U5-9
+Added Pin To Net: NetName=D1INN1 Pin=U5-30
+Added Net: Name=D1INN1
+Added Pin To Net: NetName=D1INN2 Pin=U3-9
+Added Net: Name=D1INN2
+Added Pin To Net: NetName=D1INN3 Pin=U3-12
+Added Net: Name=D1INN3
+Added Pin To Net: NetName=D1INN4 Pin=U3-15
+Added Net: Name=D1INN4
+Added Pin To Net: NetName=D1INN5 Pin=U3-19
+Added Net: Name=D1INN5
+Added Pin To Net: NetName=D1INN6 Pin=U3-22
+Added Net: Name=D1INN6
+Added Pin To Net: NetName=D1INN7 Pin=U3-25
+Added Net: Name=D1INN7
+Added Pin To Net: NetName=D1INN8 Pin=U3-28
+Added Net: Name=D1INN8
+Added Pin To Net: NetName=D1INP1 Pin=J1-4
+Added Pin To Net: NetName=D1INP1 Pin=U3-5
+Added Pin To Net: NetName=D1INP1 Pin=U5-7
+Added Pin To Net: NetName=D1INP1 Pin=U5-32
+Added Net: Name=D1INP1
+Added Pin To Net: NetName=D1INP2 Pin=U3-8
+Added Net: Name=D1INP2
+Added Pin To Net: NetName=D1INP3 Pin=U3-11
+Added Net: Name=D1INP3
+Added Pin To Net: NetName=D1INP4 Pin=U3-14
+Added Net: Name=D1INP4
+Added Pin To Net: NetName=D1INP5 Pin=U3-18
+Added Net: Name=D1INP5
+Added Pin To Net: NetName=D1INP6 Pin=U3-21
+Added Net: Name=D1INP6
+Added Pin To Net: NetName=D1INP7 Pin=U3-24
+Added Net: Name=D1INP7
+Added Pin To Net: NetName=D1INP8 Pin=U3-27
+Added Net: Name=D1INP8
+Added Pin To Net: NetName=D1OUTN1 Pin=U3-59
+Added Net: Name=D1OUTN1
+Added Pin To Net: NetName=D1OUTN2 Pin=U3-56
+Added Net: Name=D1OUTN2
+Added Pin To Net: NetName=D1OUTN3 Pin=U3-53
+Added Net: Name=D1OUTN3
+Added Pin To Net: NetName=D1OUTN4 Pin=U3-50
+Added Net: Name=D1OUTN4
+Added Pin To Net: NetName=D1OUTN5 Pin=U3-42
+Added Net: Name=D1OUTN5
+Added Pin To Net: NetName=D1OUTN6 Pin=U3-39
+Added Net: Name=D1OUTN6
+Added Pin To Net: NetName=D1OUTN7 Pin=U3-36
+Added Net: Name=D1OUTN7
+Added Pin To Net: NetName=D1OUTN8 Pin=U3-33
+Added Net: Name=D1OUTN8
+Added Pin To Net: NetName=D1OUTP1 Pin=U3-60
+Added Net: Name=D1OUTP1
+Added Pin To Net: NetName=D1OUTP2 Pin=U3-57
+Added Net: Name=D1OUTP2
+Added Pin To Net: NetName=D1OUTP3 Pin=U3-54
+Added Net: Name=D1OUTP3
+Added Pin To Net: NetName=D1OUTP4 Pin=U3-51
+Added Net: Name=D1OUTP4
+Added Pin To Net: NetName=D1OUTP5 Pin=U3-43
+Added Net: Name=D1OUTP5
+Added Pin To Net: NetName=D1OUTP6 Pin=U3-40
+Added Net: Name=D1OUTP6
+Added Pin To Net: NetName=D1OUTP7 Pin=U3-37
+Added Net: Name=D1OUTP7
+Added Pin To Net: NetName=D1OUTP8 Pin=U3-34
+Added Net: Name=D1OUTP8
+Added Pin To Net: NetName=D2INN1 Pin=J1-3
+Added Pin To Net: NetName=D2INN1 Pin=U4-6
+Added Pin To Net: NetName=D2INN1 Pin=U5-6
+Added Pin To Net: NetName=D2INN1 Pin=U5-33
+Added Net: Name=D2INN1
+Added Pin To Net: NetName=D2INN2 Pin=U4-9
+Added Net: Name=D2INN2
+Added Pin To Net: NetName=D2INN3 Pin=U4-12
+Added Net: Name=D2INN3
+Added Pin To Net: NetName=D2INN4 Pin=U4-15
+Added Net: Name=D2INN4
+Added Pin To Net: NetName=D2INN5 Pin=U4-19
+Added Net: Name=D2INN5
+Added Pin To Net: NetName=D2INN6 Pin=U4-22
+Added Net: Name=D2INN6
+Added Pin To Net: NetName=D2INN7 Pin=U4-25
+Added Net: Name=D2INN7
+Added Pin To Net: NetName=D2INN8 Pin=U4-28
+Added Net: Name=D2INN8
+Added Pin To Net: NetName=D2INP1 Pin=J1-1
+Added Pin To Net: NetName=D2INP1 Pin=U4-5
+Added Pin To Net: NetName=D2INP1 Pin=U5-4
+Added Pin To Net: NetName=D2INP1 Pin=U5-35
+Added Net: Name=D2INP1
+Added Pin To Net: NetName=D2INP2 Pin=U4-8
+Added Net: Name=D2INP2
+Added Pin To Net: NetName=D2INP3 Pin=U4-11
+Added Net: Name=D2INP3
+Added Pin To Net: NetName=D2INP4 Pin=U4-14
+Added Net: Name=D2INP4
+Added Pin To Net: NetName=D2INP5 Pin=U4-18
+Added Net: Name=D2INP5
+Added Pin To Net: NetName=D2INP6 Pin=U4-21
+Added Net: Name=D2INP6
+Added Pin To Net: NetName=D2INP7 Pin=U4-24
+Added Net: Name=D2INP7
+Added Pin To Net: NetName=D2INP8 Pin=U4-27
+Added Net: Name=D2INP8
+Added Pin To Net: NetName=D2OUTN1 Pin=U4-59
+Added Net: Name=D2OUTN1
+Added Pin To Net: NetName=D2OUTN2 Pin=U4-56
+Added Net: Name=D2OUTN2
+Added Pin To Net: NetName=D2OUTN3 Pin=U4-53
+Added Net: Name=D2OUTN3
+Added Pin To Net: NetName=D2OUTN4 Pin=U4-50
+Added Net: Name=D2OUTN4
+Added Pin To Net: NetName=D2OUTN5 Pin=U4-42
+Added Net: Name=D2OUTN5
+Added Pin To Net: NetName=D2OUTN6 Pin=U4-39
+Added Net: Name=D2OUTN6
+Added Pin To Net: NetName=D2OUTN7 Pin=U4-36
+Added Net: Name=D2OUTN7
+Added Pin To Net: NetName=D2OUTN8 Pin=U4-33
+Added Net: Name=D2OUTN8
+Added Pin To Net: NetName=D2OUTP1 Pin=U4-60
+Added Net: Name=D2OUTP1
+Added Pin To Net: NetName=D2OUTP2 Pin=U4-57
+Added Net: Name=D2OUTP2
+Added Pin To Net: NetName=D2OUTP3 Pin=U4-54
+Added Net: Name=D2OUTP3
+Added Pin To Net: NetName=D2OUTP4 Pin=U4-51
+Added Net: Name=D2OUTP4
+Added Pin To Net: NetName=D2OUTP5 Pin=U4-43
+Added Net: Name=D2OUTP5
+Added Pin To Net: NetName=D2OUTP6 Pin=U4-40
+Added Net: Name=D2OUTP6
+Added Pin To Net: NetName=D2OUTP7 Pin=U4-37
+Added Net: Name=D2OUTP7
+Added Pin To Net: NetName=D2OUTP8 Pin=U4-34
+Added Net: Name=D2OUTP8
+Added Pin To Net: NetName=DDCSCL Pin=U5-17
+Added Net: Name=DDCSCL
+Added Pin To Net: NetName=DDCSDA Pin=U5-18
+Added Net: Name=DDCSDA
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J1-5
+Added Pin To Net: NetName=GND Pin=J1-8
+Added Pin To Net: NetName=GND Pin=J1-11
+Added Pin To Net: NetName=GND Pin=J1-17
+Added Pin To Net: NetName=GND Pin=U1-31
+Added Pin To Net: NetName=GND Pin=U1-32
+Added Pin To Net: NetName=GND Pin=U1-47
+Added Pin To Net: NetName=GND Pin=U1-48
+Added Pin To Net: NetName=GND Pin=U1-62
+Added Pin To Net: NetName=GND Pin=U2-31
+Added Pin To Net: NetName=GND Pin=U2-32
+Added Pin To Net: NetName=GND Pin=U2-48
+Added Pin To Net: NetName=GND Pin=U2-62
+Added Pin To Net: NetName=GND Pin=U3-31
+Added Pin To Net: NetName=GND Pin=U3-32
+Added Pin To Net: NetName=GND Pin=U3-47
+Added Pin To Net: NetName=GND Pin=U3-62
+Added Pin To Net: NetName=GND Pin=U4-31
+Added Pin To Net: NetName=GND Pin=U4-32
+Added Pin To Net: NetName=GND Pin=U4-62
+Added Net: Name=GND
+Added Pin To Net: NetName=HPD Pin=U5-19
+Added Net: Name=HPD
+Added Pin To Net: NetName=NetJ1_13 Pin=J1-13
+Added Pin To Net: NetName=NetJ1_13 Pin=U5-23
+Added Net: Name=NetJ1_13
+Added Pin To Net: NetName=NetJ1_15 Pin=J1-15
+Added Pin To Net: NetName=NetJ1_15 Pin=U5-22
+Added Net: Name=NetJ1_15
+Added Pin To Net: NetName=NetJ1_16 Pin=J1-16
+Added Pin To Net: NetName=NetJ1_16 Pin=U5-21
+Added Net: Name=NetJ1_16
+Added Pin To Net: NetName=NetJ1_19 Pin=J1-19
+Added Pin To Net: NetName=NetJ1_19 Pin=U5-20
+Added Net: Name=NetJ1_19
+Added Pin To Net: NetName=P3V3 Pin=U1-63
+Added Pin To Net: NetName=P3V3 Pin=U2-47
+Added Pin To Net: NetName=P3V3 Pin=U2-63
+Added Pin To Net: NetName=P3V3 Pin=U3-48
+Added Pin To Net: NetName=P3V3 Pin=U3-63
+Added Pin To Net: NetName=P3V3 Pin=U4-47
+Added Pin To Net: NetName=P3V3 Pin=U4-48
+Added Pin To Net: NetName=P3V3 Pin=U4-63
+Added Net: Name=P3V3
+Change Class Name : Old Net Name=EVM_Hardware New Net Name=U_HDMI8x8_EVM_Hardware
+Added Class: Name=U_HDMI8x8_HSSwitchSet
+Added Class: Name=U_HDMI8x8_InputConnector
+Added Class: Name=CLKINN[1..8]
+Added Class: Name=CLKINP[1..8]
+Added Class: Name=CLKOUTN[1..8]
+Added Class: Name=CLKOUTP[1..8]
+Added Class: Name=D0INN[1..8]
+Added Class: Name=D0INP[1..8]
+Added Class: Name=D0OUTN[1..8]
+Added Class: Name=D0OUTP[1..8]
+Added Class: Name=D1INN[1..8]
+Added Class: Name=D1INP[1..8]
+Added Class: Name=D1OUTN[1..8]
+Added Class: Name=D1OUTP[1..8]
+Added Class: Name=D2INN[1..8]
+Added Class: Name=D2INP[1..8]
+Added Class: Name=D2OUTN[1..8]
+Added Class: Name=D2OUTP[1..8]

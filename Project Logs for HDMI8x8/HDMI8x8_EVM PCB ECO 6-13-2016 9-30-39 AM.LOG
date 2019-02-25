@@ -1,0 +1,29 @@
+Added Pin To Net: NetName=V5V Pin=J1-18
+Added Pin To Net: NetName=CEC Pin=U6-1
+Added Pin To Net: NetName=DDCSCL Pin=U6-2
+Added Pin To Net: NetName=DDCSDA Pin=U6-3
+Added Pin To Net: NetName=HPD Pin=U6-4
+Change Net Name : Old Net Name=D0OUTN2 New Net Name=D2OUTN2
+Change Net Name : Old Net Name=D0OUTN3 New Net Name=D2OUTN3
+Change Net Name : Old Net Name=D0OUTN4 New Net Name=D2OUTN4
+Change Net Name : Old Net Name=D0OUTN5 New Net Name=D2OUTN5
+Change Net Name : Old Net Name=D0OUTN6 New Net Name=D2OUTN6
+Change Net Name : Old Net Name=D0OUTN7 New Net Name=D2OUTN7
+Change Net Name : Old Net Name=D0OUTN8 New Net Name=D2OUTN8
+Change Net Name : Old Net Name=D0OUTP2 New Net Name=D2OUTP2
+Change Net Name : Old Net Name=D0OUTP3 New Net Name=D2OUTP3
+Change Net Name : Old Net Name=D0OUTP4 New Net Name=D2OUTP4
+Change Net Name : Old Net Name=D0OUTP5 New Net Name=D2OUTP5
+Change Net Name : Old Net Name=D0OUTP6 New Net Name=D2OUTP6
+Change Net Name : Old Net Name=D0OUTP7 New Net Name=D2OUTP7
+Change Net Name : Old Net Name=D0OUTP8 New Net Name=D2OUTP8
+Added Pin To Net: NetName=D2OUTN1 Pin=J2-3
+Added Pin To Net: NetName=D2OUTN1 Pin=U2-59
+Added Pin To Net: NetName=D2OUTN1 Pin=U6-22
+Added Net: Name=D2OUTN1
+Added Pin To Net: NetName=D2OUTP1 Pin=J2-1
+Added Pin To Net: NetName=D2OUTP1 Pin=U2-60
+Added Pin To Net: NetName=D2OUTP1 Pin=U6-23
+Added Net: Name=D2OUTP1
+Added Class: Name=D2OUTN[1..8]
+Added Class: Name=D2OUTP[1..8]
